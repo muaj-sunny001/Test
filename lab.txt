@@ -3,10 +3,6 @@ I am ok
 <<<<<<< HEAD
 Hello
 =======
-sunny
-ANBSD
-<<<<<<< HEAD
-ooooo
-=======
-ehheee
->>>>>>> 2c530f6ed431ddc35523277a765b8587ecd1fca9
+sunny 
+
+Im sunny
